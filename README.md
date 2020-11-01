@@ -1,5 +1,5 @@
 # LBE-RPL[1] | Laravel - Auth & Middleware
-![Foto](./photos/Capture.png)
+![Foto](./photos/Capture.PNG)
 ## Autentikasi
 Pada laravel 7 suda tersedia by default untuk autentikasi
 ```shell
