@@ -14,6 +14,6 @@ Setelah memilih UI yang diinginkan jalankan:
 npm install && npm run dev
 ```
 ___
-## Tutorial : <h2>https://github.com/mhmudyns/laravel-multi-auth-tutorial</h2>
+### [Source](https://github.com/mhmudyns/laravel-multi-auth-tutorial)
 
 
